@@ -23,7 +23,6 @@ public class DemoApplicationTests {
         demoInfo.setUserName("test");
         demoInfo.setAddress("…Ó€⁄");
         demoService.add(demoInfo);
-
     }
 
 }
