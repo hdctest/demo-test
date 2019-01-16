@@ -21,7 +21,7 @@ public class DemoApplicationTests {
     public void test1(){
         DemoInfo demoInfo = new DemoInfo();
         demoInfo.setUserName("test");
-        demoInfo.setAddress("address");
+        demoInfo.setAddress("…Ó€⁄");
         demoService.add(demoInfo);
 
     }
